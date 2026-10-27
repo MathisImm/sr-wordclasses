@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article."
+title: "sr-wordclasses: code for Word-Class and Construction-Like Structure Emerges in Neural Successor Representations Trained on Natural Language"
+type: software
+license: MIT
+authors:
+  - family-names: Immertreu
+    given-names: Mathis
+  - family-names: Schilling
+    given-names: Achim
+  - family-names: Kinfe
+    given-names: Thomas
+  - family-names: Krauss
+    given-names: Patrick
+references:
+  - type: data
+    title: "Word-Class and Construction-Like Structure Emerges in Neural Successor Representations Trained on Natural Language"
+    authors:
+      - family-names: Immertreu
+        given-names: Mathis
+    publisher:
+      name: Zenodo
+    doi: 10.5281/zenodo.22256000
+preferred-citation:
+  type: article
+  title: "Word-Class and Construction-Like Structure Emerges in Neural Successor Representations Trained on Natural Language"
+  authors:
+    - family-names: Immertreu
+      given-names: Mathis
+    - family-names: Schilling
+      given-names: Achim
+    - family-names: Kinfe
+      given-names: Thomas
+    - family-names: Krauss
+      given-names: Patrick
+  year: 2026
+  journal: "arXiv preprint"
+  identifiers:
+    - type: other
+      value: "arXiv:2605.24585"
+  doi: 10.48550/arXiv.2605.24585
+  url: "https://arxiv.org/abs/2605.24585"

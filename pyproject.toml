@@ -1,0 +1,13 @@
+[project]
+name = "srwc"
+version = "1.0.0"
+description = "Code for 'Word-Class and Construction-Like Structure Emerges in Neural Successor Representations Trained on Natural Language'"
+requires-python = ">=3.12"
+license = "MIT"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src", "tests"]
+testpaths = ["tests"]
